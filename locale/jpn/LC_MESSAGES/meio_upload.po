@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MeioUpload\n"
+"POT-Creation-Date: 2009-05-21 22:34-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Masato Yamaguchi <karateka2000@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: \models\behaviors\meio_upload.php:149
+msgid "This field has not been defined between the parameters of MeioUploadBehavior."
+msgstr "このフィールドは、MeioUploadBehaviorのパラメータ中で定義されていません。"
+
+#: \models\behaviors\meio_upload.php:152
+msgid "The directory where the file would be placed there or is protected against writing."
+msgstr "ファイルが置かれるディレクトリが書き込み保護されています。"
+
+#: \models\behaviors\meio_upload.php:155
+msgid "The file can not be empty."
+msgstr "ファイルを指定してください。"
+
+#: \models\behaviors\meio_upload.php:158
+msgid "There were problems in uploading the file."
+msgstr "ファイルのアップロード中に問題が発生しました。"
+
+#: \models\behaviors\meio_upload.php:161
+msgid "The maximum file size is exceeded."
+msgstr "ファイルサイズの上限を超えています。"
+
+#: \models\behaviors\meio_upload.php:164
+msgid "Invalid file type."
+msgstr "不正なファイルタイプです。"
+
+#: \models\behaviors\meio_upload.php:167
+msgid "Invalid file extension."
+msgstr "不正な拡張子です。"
+
+#: \models\behaviors\meio_upload.php:191
+msgid "MeioUploadBehavior Error: The field \"%s\" doesn't exists in the model \"%s\"."
+msgstr "MeioUploadBehavior エラー: フィールド　\"%s\" は、モデル\"%s\" の中に存在しません。"
+
+#: \models\behaviors\meio_upload.php:199
+msgid "MeioUploadBehavior Error: The default option must be the filename with extension."
+msgstr "MeioUploadBehavior エラー: デフォルトオプションでは、ファイルネームに拡張子がついている必要があります。"
+
+#: \models\behaviors\meio_upload.php:206
+msgid "MeioUploadBehavior Error: The thumbsizes names must be alphanumeric."
+msgstr "MeioUploadBehavior エラー: thumbsizes の名前は英数字である必要があります。"
+
+#: \models\behaviors\meio_upload.php:283
+msgid "MeioUploadBehavior Error: The max_size option format is invalid."
+msgstr "MeioUploadBehavior エラー: max_size オプションの書式が不正です。"
+
+#: \models\behaviors\meio_upload.php:299
+msgid "MeioUploadBehavior Error: The max_size unit is invalid."
+msgstr "MeioUploadBehavior エラー: max_size の単位が不正です。"
+
+#: \models\behaviors\meio_upload.php:341
+msgid "MeioUploadBehavior Error: The field \"%s\" wasn't declared as part of the MeioUploadBehavior in model \"%s\"."
+msgstr "MeioUploadBehavior エラー: フィールド　\"%s\" は、モデル\"%s\"の中で、MeioUploadBehaiviorの一部として宣言されていません。"
+
+#: \models\behaviors\meio_upload.php:365
+msgid "MeioUploadBehavior Error: The directory %s does not exist and cannot be created."
+msgstr "MeioUploadBehavior エラー: ディレクトリ　\"%s\" が存在せず、このディレクトリを作成する事もできません。"
+
+#: \models\behaviors\meio_upload.php:369
+msgid "MeioUploadBehavior Error: The directory %s does not exist."
+msgstr "MeioUploadBehavior エラー: ディレクトリ　\"%s\" が存在しません。"
+
+#: \models\behaviors\meio_upload.php:376
+msgid "MeioUploadBehavior Error: The directory %s isn't writable."
+msgstr "MeioUploadBehavior エラー: ディレクトリ　\"%s\" に書き込み権限がありません。"
+
+#: \models\behaviors\meio_upload.php:627
+msgid "Problems in the copy of the file."
+msgstr "ファイルのコピー中に問題が発生しました。"
+
